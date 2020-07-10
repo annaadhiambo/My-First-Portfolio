@@ -1,6 +1,7 @@
 # My First Portfolio
 This is my portfolio website that tell more about me.
 Here is the [link](https://annaadhiambo.github.io/My-First-Portfolio/) to my website
+![Screenshot](Screenshot.png)c
 ## Author
 * Anna Adhiambo
 ## How to access my website
