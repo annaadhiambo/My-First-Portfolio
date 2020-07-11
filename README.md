@@ -1,7 +1,8 @@
 # My First Portfolio
+# Description
 This is my portfolio website that tell more about me.
+In this my website i was able to use the index.html and know how it works.
 Here is the [link](https://annaadhiambo.github.io/My-First-Portfolio/) to my website
-![Screenshot](My-First-Portfolio/images/Screenshot.png)
 ## Author
 * Anna Adhiambo
 ## How to access my website
