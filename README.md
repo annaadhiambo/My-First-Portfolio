@@ -18,6 +18,7 @@ $ code .
 * Email:annaadhiambo@gmail.com
 ## Technology Uesd
 * HTML
+* Style.css
 ## How to contribute
 You can fork the project from the git hub and clone it by following the above instruction
 ## License and Copyright
