@@ -16,6 +16,8 @@ $ code .
 * Name:Anna Adhiambo
 * Contact:0758579812
 * Email:annaadhiambo@gmail.com
+## Technology Uesd
+* HTML
 ## How to contribute
 You can fork the project from the git hub and clone it by following the above instruction
 ## License and Copyright
