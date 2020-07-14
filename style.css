@@ -121,13 +121,15 @@ body{
 #about .about-text {
     text-align: justify;
 }
-#about .about-image {
+ #about .about-image {
     display: block;
     margin-left: auto;
     width: 75%;
-    border-radius: 40%;
+    border-radius: 50%;
     margin-top: 60px;
-}
+} 
+
+
 /* Section: Contact */
 #contact {
     padding: 5rem 0;
